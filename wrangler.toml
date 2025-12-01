@@ -6,7 +6,7 @@ compatibility_flags = ["nodejs_compat"]  # 保留，兼容 Node.js 模块
 # KV 命名空间配置（必改）
 [[kv_namespaces]]
 binding = "SUBSCRIPTIONS_KV"
-id = ""  # 替换为你的 KV ID
+id = "abc123-def456-ghi789"  # 替换为你的 KV ID
 
 # 定时任务配置（按北京时间 8 点调整）
 [triggers]
