@@ -1,4 +1,4 @@
-name = "subscriptions-kv"  # 与 Cloudflare Worker 项目名称一致
+name = "sub-track"  # 与 Cloudflare Worker 项目名称一致
 main = "index.js"          # 项目入口文件，保持不变
 compatibility_date = "2024-01-01"  # 兼容日期，合理即可
 compatibility_flags = ["nodejs_compat"]  # 保留，兼容 Node.js 模块
